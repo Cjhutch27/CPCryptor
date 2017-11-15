@@ -1,0 +1,5 @@
+when first opened, a settings file is created to make the program easier for you.
+
+The modified files folder is a place to store keyfiles,encrypted files, and decrypted files.
+
+The folder is not necessary, but is meant to help you organize your files.
